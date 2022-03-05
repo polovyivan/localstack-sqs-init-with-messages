@@ -1,0 +1,15 @@
+{
+  "id": "d76fed23-bc6b-4af5-b1f6-722441768b05",
+  "fullName": "Jeanine Gorczany",
+  "phoneNumber": "1-822-142-1568",
+  "address": "0272 Schuster Extensions, East Alvin, CA 39280",
+  "createdAt": "2020-02-14",
+  "purchaseTransactions": [
+    {
+      "id": "0c1381ac-5b79-4b27-9bb5-db6d618a4864",
+      "paymentType": "DISCOVER",
+      "amount": 93.44,
+      "createdAt": "2019-08-07"
+    }
+  ]
+}
